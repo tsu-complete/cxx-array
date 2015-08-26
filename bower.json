@@ -1,0 +1,15 @@
+{
+  "name": "cxx-array",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tsu-complete/cxx-array",
+  "authors": [
+    "tsukumo"
+  ],
+  "description": "array enhancement for c++",
+  "main": "index.hxx",
+  "license": "MIT",
+  "ignore": [
+    "**/*",
+    "!index.hxx"
+  ]
+}
